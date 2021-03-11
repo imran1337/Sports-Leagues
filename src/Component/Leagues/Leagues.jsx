@@ -31,7 +31,7 @@ const Leagues = () => {
     <>
       {(leagues.length && (
         <div className="d-flex flex-wrap justify-content-center container-fluid">
-          {leagues.slice(0,700).map((league) => {
+          {leagues.slice(0,250).map((league) => {
             const {
               idLeague,
               strLeague,
