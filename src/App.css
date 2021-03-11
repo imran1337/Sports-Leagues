@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* background: #58C77C; */
+/* background: -moz-linear-gradient(-45deg, #58C77C 0%, #1C6EA4 45%, #84C57E 100%);
+background: -webkit-linear-gradient(-45deg, #58C77C 0%, #1C6EA4 45%, #84C57E 100%);
+background: linear-gradient(135deg, #58C77C 0%, #1C6EA4 45%, #84C57E 100%); */
+background-color: rgb(59, 177, 216) !important;
+/* background: -moz-linear-gradient(left, #C6CECD 0%, #B9B6BA 50%, #D6CECE 100%);
+background: -webkit-linear-gradient(left, #C6CECD 0%, #B9B6BA 50%, #D6CECE 100%);
+background: linear-gradient(to right, #C6CECD 0%, #B9B6BA 50%, #D6CECE 100%); */
+overflow-x: hidden;
+}

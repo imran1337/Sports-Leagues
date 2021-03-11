@@ -1,0 +1,14 @@
+.cardTitle {
+    color: #FFFFFF;
+background: #FFFFFF;
+text-shadow: 2px 2px 0 #4074b5, 2px -2px 0 #4074b5, -2px 2px 0 #4074b5, -2px -2px 0 #4074b5, 2px 0px 0 #4074b5, 0px 2px 0 #4074b5, -2px 0px 0 #4074b5, 0px -2px 0 #4074b5;
+font-size: 24px;
+word-spacing: 2px;
+letter-spacing: 1.5px;
+
+
+}
+
+.card_hover_style:hover{
+    transform: scale(1.1);
+}
